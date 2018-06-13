@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe.config
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.Form1.resources
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.exe
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.pdb
+c:\users\aluno\documents\visual studio 2012\Projects\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.AboutBox1.resources
